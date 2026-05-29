@@ -26,3 +26,4 @@ function persian_ai_admin_page_content() {
     </div>
     <?php
 }
+
