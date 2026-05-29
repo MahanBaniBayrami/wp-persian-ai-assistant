@@ -36,3 +36,9 @@ Pull requests and contributions are welcome.
 ## License
 
 MIT
+
+## Future Plans
+
+- AI-powered Persian SEO suggestions
+- Content optimization
+- Smart FAQ builder
