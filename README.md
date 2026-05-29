@@ -1,36 +1,33 @@
-# wp-persian-ai-assistant
-Open-source Persian AI assistant plugin for WordPress content creators.
-
 # WP Persian AI Assistant
 
-Open-source AI-powered Persian writing assistant plugin for WordPress.
+AI-powered Persian writing assistant plugin for WordPress.
 
 ## Features
 
 * Persian SEO meta generator
-* FAQ generation
-* Persian content improvement
+* FAQ generator
 * AI title suggestions
-* Lightweight and developer-friendly
+* Persian writing improvement
+* Lightweight admin interface
 
-## Goals
+## Why this project exists
 
-This project aims to help Persian-speaking content creators improve writing quality and productivity inside WordPress.
+Persian WordPress creators lack lightweight open-source AI tools tailored for Persian content workflows. This plugin aims to improve productivity and content quality directly inside WordPress.
 
 ## Roadmap
 
-* OpenAI API integration
-* Claude API integration
-* Gutenberg block support
-* AI content summarizer
+* OpenAI integration
+* Claude integration
 * Persian grammar improvements
+* Gutenberg support
+* AI content summarizer
 
 ## Installation
 
-1. Clone repository
-2. Upload plugin to WordPress
+1. Download repository
+2. Upload plugin folder to `/wp-content/plugins/`
 3. Activate plugin
-4. Open "Persian AI" from admin panel
+4. Open "Persian AI" from WordPress admin panel
 
 ## Contributing
 
